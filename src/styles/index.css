@@ -1,3 +1,21 @@
 /* 
     General Styles
 */
+.header {
+    color: black;
+}
+.Green{
+    color: green;
+}
+.scroll{
+    overflow-x: scroll;
+}
+.Card{
+    width: 250px;
+}
+.logo {
+    height: 60px;
+}
+.Down {
+    min-height: 75vh;
+}
